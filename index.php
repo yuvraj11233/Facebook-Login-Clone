@@ -12,7 +12,7 @@
 	 <!-- Mobile Logo -->
     <div class="xl:hidden absolute top-8 left-1/2 -translate-x-1/2 z-10">
         <img
-            src="fblogo.webp"
+            src="image/fblogo.webp"
             alt="Logo"
             class="w-16 h-16"
         >
@@ -26,7 +26,7 @@
             <!-- Logo -->
             <div>
                 <img
-                    src="fblogo.webp"
+                    src="image/fblogo.webp"
                     alt="Logo"
                     class="w-16 h-16"
                 >
@@ -36,7 +36,7 @@
             <div class="flex justify-center items-center flex-1">
 
                 <img
-                    src="explore.webp"
+                    src="image/explore.webp"
                     alt="Explore"
                     class="max-w-[90%] max-h-[55vh] object-contain"
                 >
